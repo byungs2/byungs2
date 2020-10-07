@@ -25,6 +25,7 @@
 - CSS
 - Postman
 - ESLint
+- Swagger
 
 # Recently Learning
 - Data Preprocessing
