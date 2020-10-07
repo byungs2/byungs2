@@ -1,16 +1,39 @@
-### Hi there 👋
+# Interesting Fields 
+- Programming
+- Music
+- Mechanical engineering
 
-<!--
-**byungs2/byungs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Most recently done
+- https://github.com/byungs2/Finpic_vue/tree/VueWithCSS
+- https://github.com/byungs2/FinPic/blob/master/README.md
 
-Here are some ideas to get you started:
+# Using Language
+- JAVA 8
+- Python
+- JS
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Using Tools
+- Spring Boot
+- Spring
+- Spring JPA
+- JPA
+- Oracle DB
+- Vue
+- Vue CLI
+
+# Recently Learning
+- Data Preprocessing
+- Machine Learning
+- Deep Learning
+
+# How to reach me
+- facebook : https://www.facebook.com/byungs2/
+- Email : byungs286@gmail.com
+
+# My Music
+- https://soundcloud.com/byungheon
+- https://soundcloud.com/byungheon/xjky4prgqc9p
+- https://youtu.be/fVEOT5PJHH4
+
+
