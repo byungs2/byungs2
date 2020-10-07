@@ -4,8 +4,11 @@
 - Mechanical engineering
 
 # Most recently done
-- https://github.com/byungs2/Finpic_vue/tree/VueWithCSS
-- https://github.com/byungs2/FinPic/blob/master/README.md
+- Web project 
+  - https://github.com/byungs2/Finpic_vue/tree/VueWithCSS
+  - https://github.com/byungs2/FinPic/blob/master/README.md
+- Algorithms to clear minesweeper Lv1 with pyautogui
+   - https://github.com/byungs2/MineDigger
 
 # Using Language
 - JAVA 8
