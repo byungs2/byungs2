@@ -12,6 +12,7 @@
 - Python
 - JS
 - SQL
+- HTML
 
 # Using Tools
 - Spring Boot
@@ -21,6 +22,9 @@
 - Oracle DB
 - Vue
 - Vue CLI
+- CSS
+- Postman
+- ESLint
 
 # Recently Learning
 - Data Preprocessing
