@@ -33,6 +33,8 @@
 - Postman
 - ESLint
 - Swagger
+- React
+- Node.js
 
 # Recently Learning
 - Data Preprocessing
