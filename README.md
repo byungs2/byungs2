@@ -7,6 +7,9 @@
 - Web project 
   - https://github.com/byungs2/Finpic_vue/tree/VueWithCSS
   - https://github.com/byungs2/FinPic/blob/master/README.md
+- Deep Learning project
+  - https://github.com/byungs2/DeepLearningProjectBackEnd
+  - https://github.com/byungs2/DeepLearningProjectFrontEnd
 - Algorithms to clear minesweeper Lv1 with pyautogui & selenium
    - https://github.com/byungs2/MineDigger
 - Algorithms
