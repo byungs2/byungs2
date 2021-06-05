@@ -12,10 +12,6 @@
   - https://github.com/byungs2/DeepLearningProjectFrontEnd
 - Algorithms to clear minesweeper Lv1 with pyautogui & selenium
    - https://github.com/byungs2/MineDigger
-- Algorithms
-  - https://github.com/byungs2/Algorithm_Lv2_Python
-  - https://github.com/byungs2/Algorithm
-  - https://github.com/byungs2/Algorithm_level_5
   
 # Using Language
 - JAVA 8
