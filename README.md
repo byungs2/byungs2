@@ -4,12 +4,10 @@
 - Mechanical engineering
 
 # Most recently done
-- Web project 
-  - https://github.com/byungs2/Finpic_vue/tree/VueWithCSS
-  - https://github.com/byungs2/FinPic/blob/master/README.md
+- Save video app with Gstreamer frame work
+  - https://github.com/byungs2/gstreamer_test  
 - Deep Learning project
-  - https://github.com/byungs2/DeepLearningProjectBackEnd
-  - https://github.com/byungs2/DeepLearningProjectFrontEnd
+  - 
 - Algorithms to clear minesweeper Lv1 with pyautogui & selenium
    - https://github.com/byungs2/MineDigger
   
