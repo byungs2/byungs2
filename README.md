@@ -6,10 +6,8 @@
 # Most recently done
 - Save video app with Gstreamer frame work
   - https://github.com/byungs2/gstreamer_test  
-- Deep Learning project
-  - 
-- Algorithms to clear minesweeper Lv1 with pyautogui & selenium
-   - https://github.com/byungs2/MineDigger
+- Deep Learning implement data augmentation techniques
+  - https://github.com/byungs2/yolov5_custom
   
 # Using Language
 - JAVA 8
@@ -17,26 +15,25 @@
 - JS
 - SQL
 - HTML
+- c
 
 # Using Tools
-- Spring Boot
-- Spring
-- Spring JPA
-- JPA
-- Oracle DB
-- Vue
-- Vue CLI
-- CSS
-- Postman
-- ESLint
-- Swagger
 - React
-- Node.js
+- React native
+- gstreamer
+- node express
+- mysql
+
+# Utils
+- linix
+- ncloud
+- aws
+- mysql workbench
+- gdb
 
 # Recently Learning
-- Data Preprocessing
-- Machine Learning
-- Deep Learning
+- Object detection
+- JS
 
 # How to reach me
 - facebook : https://www.facebook.com/byungs2/
