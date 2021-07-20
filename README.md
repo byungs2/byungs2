@@ -4,9 +4,9 @@
 - Mechanical engineering
 
 # Most recently done
-- Save video app with Gstreamer frame work
+- Saving video app using Gstreamer frame work
   - https://github.com/byungs2/gstreamer_test  
-- Deep Learning implement data augmentation techniques
+- Implement Deep Learning data augmentation techniques
   - https://github.com/byungs2/yolov5_custom
 - Unmanned store prototype App using React native
   - https://play.google.com/store/apps/details?id=ai.fainders.istanbul
