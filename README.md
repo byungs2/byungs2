@@ -23,17 +23,19 @@
 - gstreamer
 - node express
 - mysql
+- pytorch
 
 # Utils
-- linix
+- linux
 - ncloud
 - aws
 - mysql workbench
 - gdb
 
 # Recently Learning
-- Object detection
+- Object detection data augmentation
 - JS
+- C
 
 # How to reach me
 - facebook : https://www.facebook.com/byungs2/
