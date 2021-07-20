@@ -14,8 +14,7 @@
 - Python
 - JS
 - SQL
-- HTML
-- c
+- C
 
 # Using Tools
 - React
