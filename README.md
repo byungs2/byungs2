@@ -8,7 +8,11 @@
   - https://github.com/byungs2/gstreamer_test  
 - Deep Learning implement data augmentation techniques
   - https://github.com/byungs2/yolov5_custom
-  
+- Unmanned store prototype App using React native
+  - https://play.google.com/store/apps/details?id=ai.fainders.istanbul
+- Admin page using React-admin
+- Server size admin api using Node express & MySQL
+
 # Using Language
 - JAVA 8
 - Python
