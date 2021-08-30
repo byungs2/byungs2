@@ -4,8 +4,6 @@
 - Mechanical engineering
 
 # Most recently done
-- Implement Deep Learning data augmentation techniques
-  - https://github.com/byungs2/yolov5_custom
 - Unmanned store prototype App using React native
   - https://play.google.com/store/apps/details?id=ai.fainders.istanbul
 - Admin page using React-admin
