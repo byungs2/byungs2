@@ -6,6 +6,8 @@
 # Most recently done
 - Unmanned store prototype App using React native
   - https://play.google.com/store/apps/details?id=ai.fainders.istanbul
+- Video saving application with Gstreamer
+- Vision AI inference pipeline with Gstreamer && NNstreamer
 - Admin page using React-admin
 - Server size admin api using Node express & MySQL
 
