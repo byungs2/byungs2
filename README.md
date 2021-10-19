@@ -9,7 +9,7 @@
 - Video saving application with Gstreamer
 - Vision AI inference pipeline with Gstreamer && NNstreamer
 - Admin page using React-admin
-- Server size admin api using Node express & MySQL
+- Server side admin api using Node express & MySQL
 
 # Using Language
 - JAVA 8
